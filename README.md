@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/drashti456r/DAA-ASSIGNMENT/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/drashti456r/DAA-ASSIGNMENT/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/drashti456r/DAA-ASSIGNMENT/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/drashti456r/DAA-ASSIGNMENT/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
